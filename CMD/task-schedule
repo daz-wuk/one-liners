@@ -1,0 +1,2 @@
+schtasks.exe /create /tn "Task Name" /ru SYSTEM /Sc ONSTART /tr /RL HIGHEST
+"C:\command2run.cmd"
